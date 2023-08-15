@@ -10,5 +10,10 @@ document.getElementById('btn-submit').addEventListener('click',function(){
     console.log(password);
     // (just check korar jnno)
     // step-4 verify 
-    // if(email === )
+    if(email === 'a@b.com' && password === 'secret'){
+        window.location.href = 'bank.html' ;
+    }
+    else{
+        alert('Invalid User')
+    }
 })
