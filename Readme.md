@@ -8,3 +8,4 @@ A banking website . desinged used :
 Features :
 1.Deposit
 2.Withdraw
+login: a@b.com pass: secret
